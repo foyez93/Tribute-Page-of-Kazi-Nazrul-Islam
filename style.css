@@ -1,0 +1,62 @@
+/*Author@Nazmul Alam Choudhury Foyez. I am Web Devoloper */
+/*Universal Selector*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#main{
+    text-align: center;
+}
+body{
+    background-color: #9e9e9e9e;
+}
+/*Title Section*/
+#title {
+    font-size: 16vh;
+    text-align: center;
+    font-family: 'Trade Winds','Times New Roman', Times, serif;
+    margin: 15px;
+}
+#quate{
+    text-align: center;
+    font-size: 6vh;
+    font-family: cursive, 'Times New Roman', Times, serif;
+}
+/*Image title and Responsive Section*/
+#img-div{
+    text-align: center;
+    margin: 10px;
+    padding: 20px;
+    
+}
+#image{
+    border-radius: 50%;
+    width: 50%;
+    height: auto;
+}
+#image-caption{
+    font-size: 5vh;
+    font-family: monospace;
+    padding-top: 10px;
+    
+}
+/*Tribute page info*/
+#tribute-info{
+    padding: 15px;
+    line-height: 26px;
+    font-size: 1.5v6;
+    text-align: justify;
+}
+/*Tribute Link*/
+#tribut-link{
+    font-size: 16px;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    background-color: #e4062d;
+    text-decoration: none;
+    padding-bottom: 5px;
+}
